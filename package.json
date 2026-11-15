@@ -4,7 +4,7 @@
   "private": true,
   "main": "transfer.js",
   "scripts": {
-    "start": "node \"transfer.js"
+    "start": "node transfer.js"
   },
   "engines": {
     "node": ">=18"

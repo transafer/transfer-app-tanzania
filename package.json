@@ -2,9 +2,9 @@
   "name": "transfer-app",
   "version": "1.0.0",
   "private": true,
-  "main": "transfer app tz.js",
+  "main": "transfer.js",
   "scripts": {
-    "start": "node \"transfer app tz.js"
+    "start": "node \"transfer.js"
   },
   "engines": {
     "node": ">=18"
